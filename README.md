@@ -13,3 +13,5 @@ Details about the dataset:
 9.Outcome describes if the person is predicted to have diabetes or not.
 
 It should also be noted that the dataset has no missing values 
+
+Thus, we can see that the SVM gives the best performance with 77.92%,
